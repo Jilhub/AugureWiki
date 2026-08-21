@@ -11,10 +11,15 @@
             "id": "1e65e5e5769e5b15",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           },
           {
@@ -37,8 +42,8 @@
             "state": {
               "type": "sna-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Social Network Analysis"
+              "icon": "lucide-ghost",
+              "title": "sna-view"
             }
           },
           {
@@ -216,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1142.5
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +232,12 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "publish:Publier les modifications": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc42704053401511",
+  "active": "1e65e5e5769e5b15",
   "lastOpenFiles": [
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
     "z_jpg/OreonMendar Stats.png",
