@@ -11,15 +11,14 @@
             "id": "1e65e5e5769e5b15",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Oréon de Mendar"
             }
           },
           {
@@ -138,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -207,7 +208,7 @@
             }
           },
           {
-            "id": "63e069d88b5d9175",
+            "id": "f1a03de633a7f0f6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -237,15 +238,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e65e5e5769e5b15",
+  "active": "e225e7aa389c8fe2",
   "lastOpenFiles": [
+    "Personnage Joueur/Escanor.md",
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+    "Divinité/Susurrus.md",
+    "Divinité/Shar.md",
+    "Divinité/Veine.md",
+    "Divinité/Panthéon.md",
+    "Divinité/Brume.md",
+    "Divinité/Ausrine.md",
     "z_jpg/OreonMendar Stats.png",
     "z_jpg/Pasted image 20260820180810.png",
     "z_jpg/Pasted image 20260820171213.png",
     "Personnage Joueur/Jean-Rat.md",
     "Personnage Joueur/Hannum.md",
-    "Personnage Joueur/Escanor.md",
     "z_Bestiaire/Races/Sylphe.md",
     "z_Bestiaire/Races/Homme-Rat.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Passage des Forçats.md",
@@ -255,18 +262,12 @@
     "z_jpg/Pasted image 20260821221933.png",
     "Frise Chronologique.md",
     "PNJ/Irfner.md",
-    "Divinité/Shar.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Association des Producteurs et Acheteurs de Welton.md",
     "Lieu/Ile de Featherock/Featherock.md",
     "Lieu/Ile de Featherock/Royaume de Li'ite/Royaume de Li'ite.md",
-    "Divinité/Veine.md",
     "Personnage Joueur/Ancien PJ",
     "Livia.md",
-    "Divinité/Panthéon.md",
-    "Divinité/Susurrus.md",
-    "Divinité/Brume.md",
-    "Divinité/Ausrine.md",
     "Augure.md",
     "Magie/Domaine de l'air.md",
     "z_jpg/Pasted image 20260821180924.png",
