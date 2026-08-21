@@ -11,14 +11,15 @@
             "id": "1e65e5e5769e5b15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+                "bFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Oréon de Mendar"
+              "icon": "diff",
+              "title": "Diff: Oréon de Mendar  (Index)"
             }
           },
           {
@@ -137,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -238,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e225e7aa389c8fe2",
+  "active": "1e65e5e5769e5b15",
   "lastOpenFiles": [
-    "Personnage Joueur/Escanor.md",
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+    "Personnage Joueur/Escanor.md",
     "Divinité/Susurrus.md",
     "Divinité/Shar.md",
     "Divinité/Veine.md",
