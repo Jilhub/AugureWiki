@@ -4,59 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5693e4b53933044",
+        "id": "305a617608529f15",
         "type": "tabs",
         "children": [
           {
-            "id": "1e65e5e5769e5b15",
+            "id": "06d3618c3a1e5667",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-                "bFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Oréon de Mendar  (Working Tree)"
-            }
-          },
-          {
-            "id": "834a3e9f330067ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divinité/Shar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shar"
-            }
-          },
-          {
-            "id": "9fa908f67842ab1c",
-            "type": "leaf",
-            "state": {
-              "type": "sna-view",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "sna-view"
-            }
-          },
-          {
-            "id": "29f3a259288c9a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lieu/Ile de Featherock/Royaume de Tamestri/Passage des Forçats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passage des Forçats"
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -236,54 +194,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e65e5e5769e5b15",
+  "active": "558d0064e27eb23c",
   "lastOpenFiles": [
-    "Livia.md",
+    "z_jpg/Welton.jpg",
+    "z_jpg/Valbonne.png",
+    "z_jpg/taniereHibours.jpg",
+    "z_jpg/Tamestri.jpg",
+    "z_jpg/Sylphes Image 2.png",
+    "z_jpg/Sylphes Image 1.png",
+    "z_jpg/Susurrus.png",
+    "z_jpg/Shar 1.png",
+    "z_jpg/Pasted image 20260821221933.png",
+    "z_jpg/Pasted image 20260821180924.png",
+    "z_jpg/Pasted image 20260821165604.png",
+    "z_jpg",
+    "z_Bestiaire/Races/Tiefling.md",
+    "z_Bestiaire/Races/Sylphe.md",
+    "z_Bestiaire/Races/Mousling.md",
+    "z_Bestiaire/Races/Humain.md",
+    "z_Bestiaire/Races/Homme-Rat.md",
+    "z_Bestiaire/Races/Elfe.md",
+    "z_Bestiaire/Races/Demi-Elfe.md",
+    "z_Bestiaire/Races",
+    "z_Bestiaire",
+    "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
+    "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
+    "Personnage Joueur/Carnet des aventuriers",
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
     "Personnage Joueur/Ancien PJ/Nathanael.md",
+    "Personnage Joueur/Jean-Rat.md",
     "Personnage Joueur/Escanor.md",
+    "Personnage Joueur/Hannum.md",
+    "Personnage Joueur/Ancien PJ",
+    "Personnage Joueur",
+    "Magie/Domaine de l'air.md",
+    "Magie",
+    "Divinité/Veine.md",
     "Divinité/Susurrus.md",
     "Divinité/Shar.md",
-    "Divinité/Veine.md",
     "Divinité/Panthéon.md",
     "Divinité/Brume.md",
     "Divinité/Ausrine.md",
-    "z_jpg/OreonMendar Stats.png",
-    "z_jpg/Pasted image 20260820180810.png",
-    "z_jpg/Pasted image 20260820171213.png",
-    "Personnage Joueur/Jean-Rat.md",
-    "Personnage Joueur/Hannum.md",
-    "z_Bestiaire/Races/Sylphe.md",
-    "z_Bestiaire/Races/Homme-Rat.md",
+    "Divinité",
+    "Livia.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Passage des Forçats.md",
     "Idée aventure.md",
-    "z_Bestiaire/Races/Tiefling.md",
-    "z_jpg/Pasted image 20260821221933.png",
     "Frise Chronologique.md",
-    "PNJ/Irfner.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Association des Producteurs et Acheteurs de Welton.md",
-    "Lieu/Ile de Featherock/Featherock.md",
-    "Lieu/Ile de Featherock/Royaume de Li'ite/Royaume de Li'ite.md",
-    "Personnage Joueur/Ancien PJ",
-    "Augure.md",
-    "Magie/Domaine de l'air.md",
-    "z_jpg/Pasted image 20260821180924.png",
-    "z_jpg/Ausrine 1.png",
-    "z_jpg/Susurrus.png",
-    "Magie",
-    "Divinité",
-    "z_jpg/Tamestri.jpg",
-    "z_jpg/Pasted image 20260821165604.png",
-    "z_jpg/Featherock.png",
     "Sans titre.canvas",
     "PNJ/Welton",
     "Lieu/Ile de Featherock",
-    "Lieu/Ile de Featherock/Royaume de Li'ite",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
-    "z_Bestiaire/Race jouable",
-    "z_Bestiaire",
-    "z_Bestiaire/Races",
     "Lieu/Sans titre.canvas"
   ]
 }
