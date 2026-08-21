@@ -1,3 +1,0 @@
-Grande muraille au Nord du [[Royaume de Tamestri]], avec un petit hameau en contrebas.
-
-Construit sous le règne de [[Frédérick Bluf]], le [[Passage des Forçats]] est un long mur d'environ 2 killomètres entre deux montagnes, qui barre l'accès au [[Cratère des Faveurs]]. Ce lieu dangereux est toujours gardé par de nombreux prisonniers, condamnés à cette tâche ou l'ayant choisi plutôt que la mort. Malgré les légendes entourant cet endroit, le cratère est toujours la source de violent vent de magie qui déforme le ciel et la terre, et l'endroit l'est guère acceuillant. 

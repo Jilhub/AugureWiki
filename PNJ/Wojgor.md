@@ -1,7 +1,0 @@
-![[Pasted image 20260821153130.png|233]]
-
-Surnommé « Lubrique Wojgor le Fou » , Wojgor (de son vrai nom Ludwig Wojgor) est un mage originaire de [[Bronhold]] en Tamestri. Il est à l'origine de la prophétie sur [[La malédiction du soleil noir]], qui frapperait toutes les filles nées pendant une éclipse.
-
-Dans sa jeunesse, il fut au service de [[Frédérick Bluf]], alors encore jeune roi, et siégea un temps à son conseil. Il en fut cependant renvoyé après de nombreuses absences, ainsi que pour sa lubricité et ses crises de folie de plus en plus fréquentes. Après cela, Wojgor parcouru les villages de Tamestri, proposant ses services de mage à ceux qui étaient prêts à le payer.
-
-Ces dernières années, on n'entendait presque plus parler de lui, jusqu'à ce qu'il commence à rallier plusieurs mages de [[Featherock]] afin de l'aider dans ses recherches sur [[La malédiction du soleil noir]]. Beaucoup considèrent cette nouvelle obsession comme la preuve que le vieux magicien a finalement sombré dans la folie. Pourtant, malgré les doutes qui entourent ses travaux, force est de constater qu'il est parvenu à rallier plusieurs magiciens à sa cour, donnant à ses théories une influence qu'elles n'avaient encore jamais connue.

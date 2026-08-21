@@ -1,7 +1,0 @@
-**Statut connu** : Vivant
-
-![[Pasted image 20260821141902.png|265]]
-
-**Lore** : [[Flamme]] et [[Bolt]] étaient autrefois de simples bêtes, rusées et féroces, mais pas intelligentes. Ils vivaient avec leur meute dans les bois de [[Welton]]. Tout a changé lorsqu'ils ont abattu [[Alexi Merriksonn]] et ont été imprégnés de son intelligence et de son pouvoir lors d'une Surcharge de Magie Sauvage. Tous deux sont farouchement protecteurs de leur meute et craignent que leur intelligence n'attire la chasse des hommes et d'autres races sensibles. Cependant, ils sont désormais assez intelligents pour envisager de nombreuses façons d'améliorer leur vie et celle de leurs louveteaux.
-
-Après avoir rencontré [Jean-Rat](Jean-Rat), [[Escanor]] et [Hannum](Hannum) à l’entrée de la grotte, il tente de les convaincre d’apporter rapidement cinq moutons au troupeau, en échange de quoi ils partiront loin du village de [[Welton]]. Cependant, [Flamme](Flamme.md), le voyant parlementer avec les humains, l’accuse de lâcheté et de trahison. Elle lui saurera à la gorge au moment ou [[Jean-Rat]] reviendra avec les moutons. Une fois ses blessures cicatrisées, il acceptera de partir avec sa meute loin du village, sans révéler leur destination, afin de ne plus être chassé par les hommes.

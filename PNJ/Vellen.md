@@ -1,1 +1,0 @@
-Maire du [[Village d'origine]] des aventuriers.

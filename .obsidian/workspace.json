@@ -15,11 +15,10 @@
               "state": {
                 "aFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
                 "bFile": "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Oréon de Mendar  (Index)"
+              "title": "Diff: Oréon de Mendar  (Working Tree)"
             }
           },
           {
@@ -239,7 +238,9 @@
   },
   "active": "1e65e5e5769e5b15",
   "lastOpenFiles": [
+    "Livia.md",
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+    "Personnage Joueur/Ancien PJ/Nathanael.md",
     "Personnage Joueur/Escanor.md",
     "Divinité/Susurrus.md",
     "Divinité/Shar.md",
@@ -257,7 +258,6 @@
     "Lieu/Ile de Featherock/Royaume de Tamestri/Passage des Forçats.md",
     "Idée aventure.md",
     "z_Bestiaire/Races/Tiefling.md",
-    "Personnage Joueur/Ancien PJ/Nathanael.md",
     "z_jpg/Pasted image 20260821221933.png",
     "Frise Chronologique.md",
     "PNJ/Irfner.md",
@@ -266,7 +266,6 @@
     "Lieu/Ile de Featherock/Featherock.md",
     "Lieu/Ile de Featherock/Royaume de Li'ite/Royaume de Li'ite.md",
     "Personnage Joueur/Ancien PJ",
-    "Livia.md",
     "Augure.md",
     "Magie/Domaine de l'air.md",
     "z_jpg/Pasted image 20260821180924.png",

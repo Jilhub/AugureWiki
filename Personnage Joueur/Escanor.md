@@ -1,1 +1,0 @@
-[[Humain]] Compagnon de [[Hannum]] et [[Jean-Rat]].

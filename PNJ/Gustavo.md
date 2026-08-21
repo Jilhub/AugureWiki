@@ -1,1 +1,0 @@
-Chef du camp de charbonnier au nord de [[Valbonne]].
