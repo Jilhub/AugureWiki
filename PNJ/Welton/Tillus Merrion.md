@@ -1,0 +1,7 @@
+**Statut** : Vivant
+
+**Lore** : Hafling Maire de [[Welton]].
+
+Maire élu et adoré des villageois, Tillus connaît bien les habitants de son hameau. Dans son travail, il supervise les ventes de céréales et de laine en dehors du village, négociant avec les marchands des villes voisines. Il possède un véritable talent pour le commerce et est obsédé par l'ordre et la propreté dans son village. Il dirige également l'[[Association des Producteurs et Acheteurs de Welton]], qui organise et facilite les échanges commerciaux du village avec les villes voisines. Il y entretient une certaine rivalité avec [[Léanor Banth]], le tavernier de la ville, qui dispose lui aussi de nombreux contacts auprès des marchands. Cette compétition, bien que généralement cordiale en apparence, pousse Tillus à toujours vouloir obtenir de meilleurs prix et de meilleurs contrats. Il lui arrive d'ailleurs de se montrer un peu trop attaché aux chiffres, au point de considérer parfois les affaires du village davantage comme des comptes à équilibrer que comme des histoires de personnes.
+
+Il a perdu son fils [[Tom Merrion]], probablement tué par [[Flamme]]. Il s'est fait gifler par [[Escanor]] alors qu'il tenait encore dans ses bras la carcasse chaude de son fils. Depuis, il voue une haine profonde aux loups ainsi qu'à [[Escanor]], qu'il déteste d'autant plus que celui-ci est souvent adulé par les villageois.

@@ -1,0 +1,490 @@
+{
+  "mapMarkers": [
+    {
+      "id": "valbonne",
+      "lastAccessed": 1787177151129,
+      "markers": [
+        {
+          "id": "ID_3a5a3bf94bc9",
+          "type": "default",
+          "loc": [
+            1037.375,
+            1019.5
+          ],
+          "link": "Ecurie du Roi",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a7ba83839d9",
+          "type": "default",
+          "loc": [
+            1013.375,
+            561.5
+          ],
+          "link": "Auberge du Trou",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08987abb0bea",
+          "type": "default",
+          "loc": [
+            1185.3098390508624,
+            904.7561229768731
+          ],
+          "link": "Université de Magie",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Lieu/Royaume de Tamestri/Valbonne/Valbonne.md"
+      ]
+    },
+    {
+      "id": "prouteur",
+      "lastAccessed": 1787177231912,
+      "markers": [
+        {
+          "id": "ID_fbc91ae94aab",
+          "type": "default",
+          "loc": [
+            150.9375,
+            110.25162590131484
+          ],
+          "link": "Je pète ma bierre",
+          "layer": "%5B%5Bprouteur.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Le nez",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "tamestri",
+      "lastAccessed": 1787325042034,
+      "markers": [
+        {
+          "id": "ID_58797a9b2aaa",
+          "type": "default",
+          "loc": [
+            561.9731143480086,
+            566.7460851210178
+          ],
+          "link": "Bronhold",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1abb69b80829",
+          "type": "default",
+          "loc": [
+            905.6270100046706,
+            1037.6792013912584
+          ],
+          "link": "Cratère des Faveurs",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb8a7aab6809",
+          "type": "default",
+          "loc": [
+            781.1762165158383,
+            968.3827368349768
+          ],
+          "link": "Passage des Forçats",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28782b0a196b",
+          "type": "default",
+          "loc": [
+            915.5265049412824,
+            367.3419728264114
+          ],
+          "link": "Valbonne",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d98afb7a5a88",
+          "type": "default",
+          "loc": [
+            977.375,
+            333.75
+          ],
+          "link": "Village d'origine",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89fa495a197b",
+          "type": "default",
+          "loc": [
+            1059.511123260393,
+            410.65226317408747
+          ],
+          "link": "Welton",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Lieu/Ile de Featherock/Royaume de Tamestri/Royaume de Tamestri.md"
+      ]
+    },
+    {
+      "id": "featherock",
+      "lastAccessed": 1787326166448,
+      "markers": [
+        {
+          "id": "ID_8b89fa09fa18",
+          "type": "default",
+          "loc": [
+            446.891485709898,
+            230.51641077608568
+          ],
+          "link": "Bronhold",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.202919375683174,
+            -0.5148519420620945
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aa839f81a68",
+          "type": "default",
+          "loc": [
+            574.5,
+            150.99978792591546
+          ],
+          "link": "Valbonne",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13292234852633403,
+            -0.6618663594470046
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb390bf8a84a",
+          "type": "default",
+          "loc": [
+            595.5,
+            147.99943446910788
+          ],
+          "link": "Village d'origine",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13028119231435553,
+            -0.6860599078341014
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bdb0a5a085a",
+          "type": "default",
+          "loc": [
+            615.5,
+            187.4977378764315
+          ],
+          "link": "Welton",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16505082559545026,
+            -0.7091013824884793
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a5ba8ea895a",
+          "type": "default",
+          "loc": [
+            525.5,
+            461.5
+          ],
+          "link": "Snowswind",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.40625,
+            -0.6054147465437788
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb4bf9a85b48",
+          "type": "default",
+          "loc": [
+            393.5,
+            741.0001413827231
+          ],
+          "link": "Scorcross",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6522888568509886,
+            -0.4533410138248848
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8785ac90b4a",
+          "type": "default",
+          "loc": [
+            531.7442994522837,
+            313.9588099180218
+          ],
+          "link": "Passage des Forçats",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.27637219182924455,
+            -0.6126086399219859
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8382b2b38c8",
+          "type": "default",
+          "loc": [
+            534.5727265770299,
+            328.8064527600242
+          ],
+          "link": "Cratère des Faveurs",
+          "layer": "%5B%5BFeatherock.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.28944229996481,
+            -0.6158671965173156
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Lieu/Ile de Featherock/Featherock.md"
+      ]
+    },
+    {
+      "id": "welton",
+      "lastAccessed": 1787342765667,
+      "markers": [
+        {
+          "id": "ID_4b7809ca7a78",
+          "type": "default",
+          "loc": [
+            1230.3437021776806,
+            770.7674659189987
+          ],
+          "link": "Mairie de Welton",
+          "layer": "%5B%5BWelton.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_689bb8b99b78",
+          "type": "default",
+          "loc": [
+            1314.4231178781433,
+            861.5988158261307
+          ],
+          "link": "La Tête du Berger",
+          "layer": "%5B%5BWelton.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_899a5acbc94a",
+          "type": "default",
+          "loc": [
+            64.71875,
+            1771
+          ],
+          "link": "Tanière de l'Hibours",
+          "layer": "%5B%5BWelton.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca091abad9cb",
+          "type": "default",
+          "loc": [
+            1135.9559954327324,
+            778.1800102371933
+          ],
+          "link": "Association des Producteurs et Acheteurs de Welton",
+          "layer": "%5B%5BWelton.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

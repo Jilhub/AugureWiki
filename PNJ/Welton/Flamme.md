@@ -1,0 +1,7 @@
+**Statut connu :** Morte, tué à l'entrée de l'ancienne [[Tanière de l'Hibours]] par [[Escanor]]. 
+
+![[Pasted image 20260821142028.png|204]]
+
+**Lore** : [[Flamme]] et [[Bolt]] étaient autrefois de simples bêtes, rusées et féroces, mais pas intelligentes. Ils vivaient avec leur meute dans les bois de [[Welton]]. Tout a changé lorsqu'ils ont abattu [[Alexi Merriksonn]] et ont été imprégnés de son intelligence et de son pouvoir lors d'une Surcharge de Magie Sauvage. Tous deux sont farouchement protecteurs de leur meute et craignent que leur intelligence n'attire la chasse des hommes et d'autres races sensibles. Cependant, ils sont désormais assez intelligents pour envisager de nombreuses façons d'améliorer leur vie et celle de leurs louveteaux.
+
+Agressive et colérique, elle pense que tuer les autres êtres intelligents est le seul moyen de protéger la meute et son territoire. La tension monte avec [Bolt](Bolt.md) depuis plusieurs semaines, jusqu’à ce qu’il décide de passer un accord avec [Jean-Rat](Jean-Rat), [[Escanor]] et [Hannum](Hannum), en échange du départ de la meute. Elle lui sautera à la gorge et attaquera le groupe. Malheureusement, beaucoup de membres de la meute ne la suivront pas dans son « coup d’État », et elle sera vaincue non sans mal, après avoir brûlé les miches du groupe.

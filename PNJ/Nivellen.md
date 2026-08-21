@@ -1,0 +1,1 @@
+Nivellen est un homme maudit vivant dans les bois au nord de [[Gelibol]]. Il vit dans un petit manoir délabré, où au centre de la cour intérieure se situe une petite fontaine surplombée d'une statue en forme de dauphin.
