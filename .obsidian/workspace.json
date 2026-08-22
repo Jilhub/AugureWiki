@@ -11,10 +11,14 @@
             "id": "06d3618c3a1e5667",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Lieu/Continent Rouge.md",
+                "bFile": "Lieu/Continent Rouge.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Continent Rouge  (Working Tree)"
             }
           }
         ]
@@ -196,6 +200,10 @@
   },
   "active": "06d3618c3a1e5667",
   "lastOpenFiles": [
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Phrat.md",
+    "Lieu/Augure.md",
+    "Divinité/Skarnola'at.md",
+    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Mairie de Welton.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Tanière de l'Hibours.md",
@@ -224,7 +232,6 @@
     "Lieu/Phrat.md",
     "Lieu/Continent Rouge.md",
     "Lieu",
-    "Personnage Joueur/Ancien PJ/Nathanael.md",
     "z_jpg/Welton.jpg",
     "z_jpg/Valbonne.png",
     "z_jpg/taniereHibours.jpg",
@@ -236,9 +243,6 @@
     "z_jpg/Pasted image 20260821221933.png",
     "z_jpg/Pasted image 20260821180924.png",
     "z_jpg",
-    "z_Bestiaire/Races/Tiefling.md",
-    "z_Bestiaire/Races/Sylphe.md",
-    "z_Bestiaire/Races/Mousling.md",
     "z_Bestiaire/Races",
     "z_Bestiaire",
     "Personnage Joueur/Carnet des aventuriers",

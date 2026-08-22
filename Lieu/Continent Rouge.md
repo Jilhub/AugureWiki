@@ -1,1 +1,1 @@
-Continent principale du monde d'Augure
+Continent principale du monde d'[[Augure]]

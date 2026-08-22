@@ -55,15 +55,15 @@ Don : 
 
 ![[Pasted image 20260820180810.png|450]]
 
-Autrefois, en des temps plus sombres, les Hommes-Rats étaient perçus comme un fléau n'apportant que la mort. Immunisés contre les maladies qu'ils propageaient, les clans connus sous le nom de « Fléau » ravageaient les campagnes. Les raids et les escarmouches impliquant ces créatures étaient monnaie courante jusqu'à ce que l'Alliance des Royaumes Rouges y mette fin lors des invasions de 640. Bien qu'ils constituent toujours une menace aujourd'hui, ils sont loin de représenter le danger qu'ils incarnaient jadis.  
+Autrefois, en des temps plus sombres, les Hommes-Rats étaient perçus comme un fléau n'apportant que la mort, servant le plus souvent la déesse [[Skarnola'at]]. Immunisés contre les maladies qu'ils propageaient, les clans connus sous le nom de « Fléau » ravageaient les village et les campagnes. Les raids et les escarmouches impliquant ces créatures étaient monnaie courante jusqu'à ce que l'Alliance des Royaumes Rouges y mette fin lors des invasions de 640. Bien qu'ils constituent toujours une menace aujourd'hui, ils sont loin de représenter le danger qu'ils incarnaient jadis.  
   
-Répartis en de nombreux clans cachés sur l'ensemble du continent, les membres du Fléau attendent encore l'heure du grand dessein de leur empereur actuel, Skerlnit (note de l'éditeur : empereur qui peut changer à tout moment, compte tenu de la propension des rats à se tuer entre eux dans leur quête de pouvoir).  
+Répartis en de nombreux clans cachés sur l'ensemble du continent, les membres du [[Fléau]] attendent encore l'heure du grand dessein de leur empereur actuel, [[Skerlnit]] (note : empereur qui peut changer à tout moment, compte tenu de la propension des rats à se tuer entre eux dans leur quête de pouvoir).  
   
-Les Mouslings et les [[Elfe]] Sylvains doivent constamment faire face aux menaces du Fléau, alors que ces clans tentent de s'extirper peu à peu des antres obscurs où ils se terrent. Si ces groupes de pillards sont relativement faciles à contenir et à neutraliser, il est presque impossible de localiser le repaire du Fléau. Cette situation a donné naissance à une sorte de chasse saisonnière, connue de tous, où chacun cherche à trouver le repaire et à anéantir un ennemi qu'il sait pourtant immortel.
+Les Mouslings et les [[Elfe]] Sylvains doivent constamment faire face aux menaces du [[Fléau]], alors que ces clans tentent de s'extirper peu à peu des antres obscurs où ils se terrent. Si ces groupes de pillards sont relativement faciles à contenir et à neutraliser, il est presque impossible de localiser le repaire du [[Fléau]]. Cette situation a donné naissance à une sorte de chasse saisonnière, connue de tous, où chacun cherche à trouver le repaire et à anéantir un ennemi qu'il sait pourtant immortel.
 
 **Niveau 1**
 
-Dans les terres sauvages, les hommes-rats vivent toujours en clan. Vous avez appris à survivre dans les environnements les plus hostiles et à vous battre aux côtés des vôtres. Pour le Fléau, la meute est une force, une manière inarrêtable de propager la maladie.
+Dans les terres sauvages, les hommes-rats vivent toujours en clan. Vous avez appris à survivre dans les environnements les plus hostiles et à vous battre aux côtés des vôtres. Pour le [[Fléau]], la meute est une force, une manière inarrêtable de propager la maladie.
 
 Compétence :
 
