@@ -11,17 +11,28 @@
             "id": "06d3618c3a1e5667",
             "type": "leaf",
             "state": {
+              "type": "sna-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Social Network Analysis"
+            }
+          },
+          {
+            "id": "23097739317e58b5",
+            "type": "leaf",
+            "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Lieu/Continent Rouge.md",
-                "bFile": "Lieu/Continent Rouge.md",
+                "aFile": "Magie/Domaine de l'air.md",
+                "bFile": "Magie/Domaine de l'air.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Continent Rouge  (Working Tree)"
+              "title": "Diff: Domaine de l'air  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,40 +209,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d3618c3a1e5667",
+  "active": "23097739317e58b5",
   "lastOpenFiles": [
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Phrat.md",
-    "Lieu/Augure.md",
-    "Divinité/Skarnola'at.md",
-    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Mairie de Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Tanière de l'Hibours.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/La Tête du Berger.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Association des Producteurs et Acheteurs de Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Valbonne.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Université de Magie.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Ecurie du Roi.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Auberge du Trou.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Village d'origine.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Cratère des Faveurs.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Royaume de Tamestri.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Passage des Forçats.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Bronhold.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri",
-    "Lieu/Ile de Featherock/Royaume de Li'ite/Snowswind.md",
-    "Lieu/Ile de Featherock/Royaume de Li'ite/Scorcross.md",
-    "Lieu/Ile de Featherock/Royaume de Li'ite/Royaume de Li'ite.md",
-    "Lieu/Ile de Featherock/Royaume de Li'ite",
-    "Lieu/Ile de Featherock/Royaume d'Orzamar.md",
-    "Lieu/Ile de Featherock/Gelibol.md",
-    "Lieu/Ile de Featherock/Featherock.md",
-    "Lieu/Ile de Featherock",
-    "Lieu/Phrat.md",
-    "Lieu/Continent Rouge.md",
-    "Lieu",
     "z_jpg/Welton.jpg",
     "z_jpg/Valbonne.png",
     "z_jpg/taniereHibours.jpg",
@@ -242,10 +221,42 @@
     "z_jpg/Shar 1.png",
     "z_jpg/Pasted image 20260821221933.png",
     "z_jpg/Pasted image 20260821180924.png",
+    "z_jpg/Pasted image 20260821165604.png",
     "z_jpg",
+    "z_Bestiaire/Races/Sylphe.md",
+    "z_Bestiaire/Races/Tiefling.md",
+    "z_Bestiaire/Races/Mousling.md",
+    "z_Bestiaire/Races/Elfe.md",
+    "z_Bestiaire/Races/Humain.md",
+    "z_Bestiaire/Races/Homme-Rat.md",
+    "z_Bestiaire/Races/Demi-Elfe.md",
     "z_Bestiaire/Races",
     "z_Bestiaire",
+    "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
+    "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
+    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+    "Personnage Joueur/Ancien PJ/Nathanael.md",
+    "Personnage Joueur/Jean-Rat.md",
+    "Personnage Joueur/Hannum.md",
+    "Personnage Joueur/Escanor.md",
     "Personnage Joueur/Carnet des aventuriers",
+    "Personnage Joueur/Ancien PJ",
+    "Personnage Joueur",
+    "Magie/Domaine de l'air.md",
+    "Magie",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Tanière de l'Hibours.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Mairie de Welton.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/La Tête du Berger.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Association des Producteurs et Acheteurs de Welton.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Valbonne.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Université de Magie.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Phrat.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Ecurie du Roi.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Auberge du Trou.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
+    "Lieu/Ile de Featherock/Royaume de Tamestri",
     "Sans titre.canvas",
     "Lieu/Sans titre.canvas"
   ]

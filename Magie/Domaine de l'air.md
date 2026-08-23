@@ -1,6 +1,6 @@
 ## Domaine de l'air
 
-**Divinités :** Chez les hommes, deux divinités sont associées au vent : [[Susurrus]] et [[Brume]]. Aux origines du monde, [[Susurrus]], le plus jeune des frères des saisons, refusa de suivre les siens dans le monde. Timide et réservé, il se méfiait de la création tumultueuse des êtres primordiaux et préféra s'attarder entre ciel et terre. C'est là qu'il rencontra [[Brume]], une douce fille du ciel. Peu à peu, [[Susurrus]] lui murmura son amour. Ils s'unirent sous une cascade, et de leur union naquirent les sylphes, êtres d'air et de légèreté. Comme les autres divinités élémentaires, ils ont peu d'adorateurs et leurs temples sont rares. Pourtant, quelques voyageurs, marins, messagers et magiciens continuent de leur adresser des prières, espérant obtenir la faveur des vents.
+**Divinités :** Chez les hommes, deux divinités sont associées au vent : [[Susurrus]] et [[Brume]]. 
 
 **Niveau 1**
 

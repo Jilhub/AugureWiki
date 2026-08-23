@@ -1,3 +1,3 @@
-Oréon de Mendar est un prêtre condamné à 10 ans de travail forcé au [[Passage des Forçats]]. Il aurait été présent lors d'une des nombreuses explosions de colère du [[Cratère des Faveurs]], où certains racontent avoir vu un crâne géant apparaître dans le ciel au-dessus du Passage, et des esprits en descendre attaquer gardes et passants. On le suppose mort à l'heure qu'il est.
+Oréon de Mendar est un prêtre condamné à dix ans de travaux forcés au [[Passage des Forçats]]. Il aurait été présent lors de l'une des nombreuses explosions de colère du [[Cratère des Faveurs]], au cours de laquelle certains témoins racontent avoir vu un crâne géant apparaître dans le ciel, au-dessus du Passage, avant que des esprits n'en descendent pour attaquer gardes et passants. On le suppose mort à l'heure qu'il est.
 
 ![[OreonMendar Stats.png]]
