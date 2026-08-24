@@ -23,12 +23,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Magie/Domaine de l'air.md",
-                "bFile": "Magie/Domaine de l'air.md",
+                "aFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol.md",
+                "bFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Domaine de l'air  (Working Tree)"
+              "title": "Diff: Gelibol  (Working Tree)"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "23097739317e58b5",
   "lastOpenFiles": [
+    "Lieu/Ile de Featherock/Featherock.md",
     "z_jpg/Welton.jpg",
     "z_jpg/Valbonne.png",
     "z_jpg/taniereHibours.jpg",
@@ -221,7 +222,6 @@
     "z_jpg/Shar 1.png",
     "z_jpg/Pasted image 20260821221933.png",
     "z_jpg/Pasted image 20260821180924.png",
-    "z_jpg/Pasted image 20260821165604.png",
     "z_jpg",
     "z_Bestiaire/Races/Sylphe.md",
     "z_Bestiaire/Races/Tiefling.md",
