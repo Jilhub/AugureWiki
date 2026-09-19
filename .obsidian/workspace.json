@@ -21,14 +21,14 @@
             "id": "23097739317e58b5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "z_Bestiaire/Races/Homme-Rat.md",
-                "bFile": "z_Bestiaire/Races/Homme-Rat.md",
-                "aRef": ""
+                "file": "Bataille/Bataille de Fort Sterling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Homme-Rat  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Bataille de Fort Sterling"
             }
           }
         ],
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bataille/Bataille de Fort Sterling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bataille/Bataille de Fort Sterling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -211,7 +213,13 @@
   },
   "active": "23097739317e58b5",
   "lastOpenFiles": [
+    "z_Bestiaire/Races/Sylphe.md",
+    "Bataille/Bataille de Fort Sterling.md",
+    "Bataille",
     "z_Bestiaire/Races/Mousling.md",
+    "z_Bestiaire/Races/Elfe.md",
+    "z_Bestiaire/Races/Homme hybride.md",
+    "z_Bestiaire/Races/Humain.md",
     "z_jpg/Featherock.png",
     "z_jpg/OreonMendar Stats.png",
     "z_jpg/Pasted image 20260820171213.png",
@@ -221,7 +229,6 @@
     "z_jpg/Pasted image 20260821153130.png",
     "z_jpg/Pasted image 20260821145631.png",
     "z_jpg/Pasted image 20260821145621.png",
-    "z_Bestiaire/Races/Homme hybride.md",
     "z_Bestiaire/Races/Homme-Rat.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Tanière de l'Hibours.md",
@@ -234,9 +241,6 @@
     "z_jpg/Welton.jpg",
     "z_jpg",
     "z_Bestiaire/Races/Tiefling.md",
-    "z_Bestiaire/Races/Sylphe.md",
-    "z_Bestiaire/Races/Humain.md",
-    "z_Bestiaire/Races/Elfe.md",
     "z_Bestiaire/Races/Demi-Elfe.md",
     "z_Bestiaire/Races",
     "z_Bestiaire",
@@ -255,7 +259,6 @@
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Phrat.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Ecurie du Roi.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
-    "Lieu/Ile de Featherock/Royaume de Tamestri",
     "Sans titre.canvas",
     "Lieu/Sans titre.canvas"
   ]
