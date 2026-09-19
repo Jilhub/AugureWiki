@@ -1,3 +1,3 @@
-Nathanael est une assassin-mage [[Tiefling]] condamnée à plusieurs années de travaux forcés au [[Passage des Forçats]]. Elle aurait été présente lors de l'une des nombreuses explosions de colère du [[Cratère des Faveurs]], au cours de laquelle certains témoins racontent avoir vu un crâne géant apparaître dans le ciel, au-dessus du Passage, avant que des esprits n'en descendent pour attaquer gardes et passants. Depuis cette soirée, elle a disparu.
+Nathanael est une assassine-mage [[Tiefling]] condamnée à plusieurs années de travaux forcés au [[Passage des Forçats]]. Elle aurait été présente lors de l'une des nombreuses explosions de colère du [[Cratère des Faveurs]], au cours de laquelle certains témoins racontent avoir vu un crâne géant apparaître dans le ciel, au-dessus du Passage, avant que des esprits n'en descendent pour attaquer gardes et passants. Depuis cette soirée, elle a disparu.
 
-![[Pasted image 20260821221933.png]]
+![[Nathanael Stats.png]]
