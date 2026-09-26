@@ -1,0 +1,7 @@
+[[Demi-Elfe]]
+[[Elfe]]
+[[Homme hybride]]
+[[Humain]]
+[[Mousling]]
+[[Sylphe]]
+[[Tiefling]]
