@@ -1,1 +1,0 @@
-[[Humain]] Compagnon de [[Hannum]] et [[Jean-Rat]]. On raconte que son pouvoir descend directement de [[Ausrine]] en personne, comme toutes les personnes nées pendant un soleil rouge.

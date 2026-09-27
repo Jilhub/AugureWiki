@@ -23,30 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divinité/Brume.md",
+                "file": "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brume"
-            }
-          },
-          {
-            "id": "d558cd2bb4f80e08",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Cratère des Faveurs.md",
-                "bFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Cratère des Faveurs.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Cratère des Faveurs  (Working Tree)"
+              "title": "Premier tome, par Jean-Rat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,20 +209,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d558cd2bb4f80e08",
+  "active": "5d14e22fe403c441",
   "lastOpenFiles": [
-    "Divinité/Brume.md",
-    "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
-    "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
-    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
     "Personnage Joueur/Ancien PJ/Nathanael.md",
-    "Personnage Joueur/Jean-Rat.md",
+    "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
     "Personnage Joueur/Escanor.md",
     "Personnage Joueur/Hannum.md",
+    "Magie/Domaine de l'air.md",
+    "z_Bestiaire/Races/Elfe.md",
+    "Divinité/Brume.md",
+    "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
+    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
+    "Personnage Joueur/Jean-Rat.md",
     "Personnage Joueur/Carnet des aventuriers",
     "Personnage Joueur/Ancien PJ",
     "Personnage Joueur",
-    "Magie/Domaine de l'air.md",
     "Magie",
     "z_jpg/Welton.jpg",
     "z_jpg/Valbonne.png",
@@ -255,7 +242,6 @@
     "z_Bestiaire/Races/Humain.md",
     "z_Bestiaire/Races/Homme-Rat.md",
     "z_Bestiaire/Races/Homme hybride.md",
-    "z_Bestiaire/Races/Elfe.md",
     "z_Bestiaire/Races/Demi-Elfe.md",
     "z_Bestiaire/Races",
     "z_Bestiaire",
