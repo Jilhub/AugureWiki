@@ -1,0 +1,1 @@
+Les orcs sont forts, pas comme les faibles [[Humain]]s.

@@ -7,7 +7,7 @@ Les Hommes-Rats ne jouissent pas d'une excellente réputation auprès des autres
 
 Au cours des derniers siècles, la situation a considérablement évolué, donnant naissance à deux lignées d'Hommes-Rats bien distinctes.
 
-### Rat des villes :
+### Rat des villes
 
 ![[City Rat.png|250]]
 

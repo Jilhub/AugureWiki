@@ -21,14 +21,32 @@
             "id": "5d14e22fe403c441",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Divinité/Brume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brume"
+            }
+          },
+          {
+            "id": "d558cd2bb4f80e08",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Cratère des Faveurs.md",
+                "bFile": "Lieu/Ile de Featherock/Royaume de Tamestri/Cratère des Faveurs.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Cratère des Faveurs  (Working Tree)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d14e22fe403c441",
+  "active": "d558cd2bb4f80e08",
   "lastOpenFiles": [
+    "Divinité/Brume.md",
     "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
     "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
     "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
@@ -250,7 +269,6 @@
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Université de Magie.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Ecurie du Roi.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Phrat.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Auberge du Trou.md",
     "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
     "Lieu/Ile de Featherock/Royaume de Tamestri",
     "Sans titre.canvas",
