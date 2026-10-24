@@ -1,1 +1,0 @@
-Capitale du [[Royaume de Li'ite]].

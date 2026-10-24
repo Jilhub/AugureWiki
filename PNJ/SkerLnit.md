@@ -1,1 +1,0 @@
-Chef actuel du [[Fléau]]

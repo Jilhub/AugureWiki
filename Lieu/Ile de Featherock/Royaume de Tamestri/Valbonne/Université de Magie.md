@@ -1,1 +1,0 @@
-Université de Magie de [[Valbonne]]

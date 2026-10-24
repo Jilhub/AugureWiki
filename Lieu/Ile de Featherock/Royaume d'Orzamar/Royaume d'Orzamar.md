@@ -1,1 +1,0 @@
-Royaume situé sur l'ile de [[Featherock]].

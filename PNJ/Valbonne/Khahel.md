@@ -1,1 +1,0 @@
-Charbonnier travaillant au nord de [[Valbonne]]. Il a le visage noircis par la suie et la poussière de charbon, malgré la proximité du [[Phrat]]. 

@@ -1,1 +1,0 @@
-Région du [[Continent Rouge]] inspiré des mythes grecs. Lieu de vie des [[Minotaure]]s.

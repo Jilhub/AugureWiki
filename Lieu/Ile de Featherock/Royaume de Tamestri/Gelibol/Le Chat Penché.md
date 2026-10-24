@@ -1,1 +1,0 @@
-Auberge de [[Gelibol]].
