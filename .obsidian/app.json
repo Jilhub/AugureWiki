@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "z_jpg",
-  "spellcheck": false
+  "attachmentFolderPath": "Wiki/z_jpg",
+  "spellcheck": false,
+  "alwaysUpdateLinks": false
 }

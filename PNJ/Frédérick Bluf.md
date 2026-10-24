@@ -1,0 +1,1 @@
+Père d'[[Henrik le Brave]] et Ancien Roi du [[Royaume de Tamestri]].

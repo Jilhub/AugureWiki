@@ -1,9 +1,9 @@
 
 ## Une singularité bien à part
 
-Les Hommes-Rats sont des cousins très éloignés des [[Mousling]]s, bien qu'ils soient plus grands et bien plus robustes. Bien qu'ils se tiennent souvent voûtés, ils possèdent de grandes capacités physiques, parfois supérieures à celles des humains malgré leur plus petite taille (1m50). Leur corps relativement agile, ainsi que leur odorat particulièrement aiguisé, en font d'excellents éclaireurs. Avec leur clan, ils sont souvent capables de survivre dans des environnements très hostiles sans trop de difficulté. Dans leur recherche constante de nouvelles façons de survivre, beaucoup d'Hommes-Rats trouvent des manières innovantes d'utiliser les ressources limitées dont ils disposent. Cet état d'esprit en fait d'excellents ingénieurs et artificiers. Leurs créations, aussi puissantes que périlleuses, en font des armes de choix pour les clans qui savent les utiliser, ou pour quiconque près à prendre le risque.
-  
-Les Hommes-Rats ne jouissent pas d'une excellente réputation auprès des autres races. De nombreux clans ont prêté allégeance à des seigneurs des ténèbres, faisant d'eux des ennemis aux yeux de la plupart des peuples. Leur capacité à se multiplier rapidement, ainsi que leur férocité, en ont fait des soldats d'infanterie idéaux pour ceux qui cherchent à corrompre le monde. Ils cherchent souvent le pouvoir, et sont facilement intimidés et convaincus.
+Les Hommes-Rats sont des cousins très éloignés des [[Mousling]]s, en plus grands et beaucoup plus robustes. Bien qu'ils se tiennent souvent voûtés, ils possèdent de grandes capacités physiques, parfois supérieures à celles des humains malgré leur plus petite taille (1m50). Leur corps relativement agile, ainsi que leur odorat particulièrement aiguisé, en font d'excellents éclaireurs. Avec leur clan, ils sont souvent capables de survivre dans des environnements très hostiles sans trop de difficulté. Dans leur recherche constante de nouvelles façons de survivre, beaucoup d'Hommes-Rats trouvent des manières innovantes d'utiliser les ressources limitées dont ils disposent. Cet état d'esprit en fait d'excellents ingénieurs et artificiers. Leurs créations, aussi puissantes que périlleuses, en font des armes de choix pour les clans qui savent les utiliser, ou pour quiconque près à prendre le risque. 
+
+Les Hommes-Rats ne jouissent pas d'une excellente réputation auprès des autres races. De nombreux clans font encore partie du [[Fléau]], faisant d'eux des ennemis aux yeux de la plupart des peuples. Leur capacité à se multiplier rapidement, ainsi que leur férocité, en ont fait des soldats d'infanterie idéaux pour ceux qui cherchent à corrompre le monde. Ils cherchent souvent le pouvoir, et sont facilement intimidés ou convaincus.
 
 Au cours des derniers siècles, la situation a considérablement évolué, donnant naissance à deux lignées d'Hommes-Rats bien distinctes.
 
@@ -17,7 +17,7 @@ Comme leur nom l'indique, les « Rats des villes » sont des hommes-rats vivant 
 
 **Niveau 1**
 
-Même en ville, les homme-rats ne sont jamais loin de leur clan. Vous avez appris à vous battre en groupe, et, lorsque tout va mal (et même quand ça va bien), toujours faire confiance au pack.
+Même en ville, les homme-rats ont souvent grandi au sein d’un clan. Vous avez appris à vous battre en groupe, et, lorsque tout va mal (et même quand tout va bien), à toujours faire confiance au pack.
 
 Compétence :
 

@@ -1,0 +1,1 @@
+Naine épouse de [[Dorn Oyar]]. Mère de [[Aline Oyar]].

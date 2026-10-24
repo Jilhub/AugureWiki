@@ -1,1 +1,0 @@
-Ville du [[Royaume de Tamestri]].

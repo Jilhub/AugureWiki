@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "305a617608529f15",
+        "id": "d5693e4b53933044",
         "type": "tabs",
         "children": [
           {
-            "id": "06d3618c3a1e5667",
+            "id": "09a70482bff78f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gelibol"
+            }
+          },
+          {
+            "id": "b04af584d60f81a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Gelibol/Tania l'herboriste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tania l'herboriste"
+            }
+          },
+          {
+            "id": "534ecd2815f2f586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Gelibol/Vvulf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vvulf"
+            }
+          },
+          {
+            "id": "eb4651126891b1e3",
             "type": "leaf",
             "state": {
               "type": "sna-view",
@@ -18,17 +60,27 @@
             }
           },
           {
-            "id": "5d14e22fe403c441",
+            "id": "7a94621017f41a00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "3dccd70e2250393e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
+                "file": "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Mairie de Gelibol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Premier tome, par Jean-Rat"
+              "title": "Mairie de Gelibol"
             }
           }
         ],
@@ -110,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A faire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lore/Histoire du Monde.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,6 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PNJ/Gelibol/Tania l'herboriste.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -179,7 +234,7 @@
             }
           },
           {
-            "id": "f1a03de633a7f0f6",
+            "id": "63e069d88b5d9175",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -193,70 +248,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "publish:Publier les modifications": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publier les modifications": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "558d0064e27eb23c",
+  "active": "63e069d88b5d9175",
   "lastOpenFiles": [
-    "z_jpg/Pasted image 20260823134447.png",
-    "z_jpg/Pasted image 20260820180810.png",
-    "z_jpg/OreonMendar Stats.png",
-    "z_jpg/Nathanael Stats.png",
-    "z_jpg/City Rat.png",
-    "z_Bestiaire/Races/Humain.md",
-    "z_Bestiaire/Races/Homme-Rat.md",
-    "z_Bestiaire/Races/Homme hybride.md",
-    "z_Bestiaire/Races/Elfe.md",
-    "Personnage Joueur/Ancien PJ/Oréon de Mendar.md",
-    "Personnage Joueur/Ancien PJ/Nathanael.md",
-    "Personnage Joueur/Hannum.md",
-    "Personnage Joueur/Escanor.md",
-    "Personnage Joueur/Carnet des aventuriers/Premier tome, par Jean-Rat.md",
-    "Magie/Domaine de l'air.md",
-    "Divinité/Brume.md",
-    "Personnage Joueur/Carnet des aventuriers/Second Tome, par Jean-Rat.md",
-    "Personnage Joueur/Jean-Rat.md",
-    "Personnage Joueur/Carnet des aventuriers",
-    "Personnage Joueur/Ancien PJ",
-    "Personnage Joueur",
-    "Magie",
-    "z_jpg/Welton.jpg",
-    "z_jpg/Valbonne.png",
-    "z_jpg/taniereHibours.jpg",
-    "z_jpg/Tamestri.jpg",
-    "z_jpg/Sylphes Image 2.png",
-    "z_jpg/Sylphes Image 1.png",
-    "z_jpg",
-    "z_Bestiaire/Races/Tiefling.md",
-    "z_Bestiaire/Races/Sylphe.md",
-    "z_Bestiaire/Races/Mousling.md",
-    "z_Bestiaire/Races/Demi-Elfe.md",
-    "z_Bestiaire/Races",
-    "z_Bestiaire",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Tanière de l'Hibours.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Mairie de Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/La Tête du Berger.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Association des Producteurs et Acheteurs de Welton.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Welton",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Valbonne.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Université de Magie.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Ecurie du Roi.md",
-    "Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne",
-    "Lieu/Ile de Featherock/Royaume de Tamestri",
+    "Fiche perso Eva JDR D&D.pdf",
+    "Frise Chronologique.md",
+    "Idée aventure groupe Eva Kiki.md",
+    "Idée aventure groupe Théa Marty Lucie.md",
+    "JDR Augure.md",
+    "Les compétences.md",
+    "Wiki/Lieu/Secret/Camp de Vvulf.md",
+    "Wiki/Lieu/Secret",
+    "Wiki/Lieu/Secret/Manoir de Niv.md",
+    "Wiki/Lore/Histoire du Monde.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Dur dur l'armure.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md",
+    "Wiki/PNJ/Gelibol/Tania l'herboriste.md",
+    "Dur comme Gelibol.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Herbo & Magie.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Le Chat Penché.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Mairie de Gelibol.md",
+    "Wiki/PNJ/Gelibol/Aline Oyar.md",
+    "A faire.md",
+    "Wiki/PNJ/Gelibol/Viktor Vallakovich.md",
+    "Wiki/PNJ/Gelibol/Vvulf.md",
+    "Wiki/PNJ/Gelibol/Dorn Oyar.md",
+    "Wiki/Personnage Joueur/Carnet des aventuriers/Carnet de Calaerion.md",
+    "Wiki/PNJ/Wojgor.md",
+    "Wiki/Personnage Joueur/Carnet des aventuriers/Carnet de Hipase Lamedacier.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Marais de Ohara.md",
+    "Wiki/z_jpg/Gelibol.png",
+    "Wiki/z_jpg/Tania l'herboriste.png",
+    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol",
+    "Wiki/z_jpg/Pasted image 20261023175937.png",
+    "Wiki/z_jpg/Redgar.png",
+    "Wiki/Lieu/Continent Rouge",
+    "Wiki/z_jpg/Hipase Lamedacier 2.png",
+    "Wiki/z_jpg/Hipase Lamedacier 1.png",
+    "Fiche perso Eva JDR D&D.pdf.crswap",
+    "Wiki/z_jpg/Viktor Vallakovich.png",
+    "Wiki/z_jpg/Mayor Wilkin.png",
+    "Wiki/z_jpg/Vvulf.png",
+    "Wiki/PNJ/Gelibol",
+    "Wiki/z_jpg/GrotteBandit1.jpg",
+    "Wiki/Lieu/Ile de Featherock/Royaume d'Orzamar",
+    "Wiki/Classe",
+    "Lieu",
+    "Wiki/PNJ/Valbonne",
     "Sans titre.canvas",
     "Lieu/Sans titre.canvas"
   ]

@@ -1,68 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "valbonne",
-      "lastAccessed": 1787177151129,
-      "markers": [
-        {
-          "id": "ID_3a5a3bf94bc9",
-          "type": "default",
-          "loc": [
-            1037.375,
-            1019.5
-          ],
-          "link": "Ecurie du Roi",
-          "layer": "%5B%5BValbonne.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a7ba83839d9",
-          "type": "default",
-          "loc": [
-            1013.375,
-            561.5
-          ],
-          "link": "Auberge du Trou",
-          "layer": "%5B%5BValbonne.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_08987abb0bea",
-          "type": "default",
-          "loc": [
-            1185.3098390508624,
-            904.7561229768731
-          ],
-          "link": "Université de Magie",
-          "layer": "%5B%5BValbonne.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Lieu/Royaume de Tamestri/Valbonne/Valbonne.md"
-      ]
-    },
-    {
       "id": "prouteur",
       "lastAccessed": 1787177231912,
       "markers": [
@@ -90,7 +28,7 @@
     },
     {
       "id": "featherock",
-      "lastAccessed": 1787326166448,
+      "lastAccessed": 1787396842104,
       "markers": [
         {
           "id": "ID_8b89fa09fa18",
@@ -256,12 +194,12 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Lieu/Ile de Featherock/Featherock.md"
+        "Wiki/Lieu/Ile de Featherock/Featherock.md"
       ]
     },
     {
       "id": "welton",
-      "lastAccessed": 1787342765667,
+      "lastAccessed": 1789821729056,
       "markers": [
         {
           "id": "ID_4b7809ca7a78",
@@ -335,12 +273,12 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md"
+        "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md"
       ]
     },
     {
       "id": "tamestri",
-      "lastAccessed": 1789822258619,
+      "lastAccessed": 1790795863397,
       "markers": [
         {
           "id": "ID_58797a9b2aaa",
@@ -443,12 +381,170 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b9b69f869a9",
+          "type": "default",
+          "loc": [
+            1145.375,
+            460.25
+          ],
+          "link": "Gelibol",
+          "layer": "%5B%5BTamestri.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Lieu/Ile de Featherock/Royaume de Tamestri/Royaume de Tamestri.md"
+        "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Royaume de Tamestri.md"
+      ]
+    },
+    {
+      "id": "valbonne",
+      "lastAccessed": 1792759885330,
+      "markers": [
+        {
+          "id": "ID_3a5a3bf94bc9",
+          "type": "default",
+          "loc": [
+            1037.375,
+            1019.5
+          ],
+          "link": "Ecurie du Roi",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a7ba83839d9",
+          "type": "default",
+          "loc": [
+            1013.375,
+            561.5
+          ],
+          "link": "Auberge du Trou",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08987abb0bea",
+          "type": "default",
+          "loc": [
+            1185.3098390508624,
+            904.7561229768731
+          ],
+          "link": "Université de Magie",
+          "layer": "%5B%5BValbonne.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Valbonne/Valbonne.md"
+      ]
+    },
+    {
+      "id": "gelibol",
+      "lastAccessed": 1792855692818,
+      "markers": [
+        {
+          "id": "ID_1a0bdb9b98a8",
+          "type": "default",
+          "loc": [
+            279.13040187338964,
+            730.0877515751102
+          ],
+          "link": "Herbo & Magie",
+          "layer": "%5B%5BGelibol.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_089afb8938f9",
+          "type": "default",
+          "loc": [
+            430.4512530473108,
+            534.9262799676231
+          ],
+          "link": "Le Chat Penché",
+          "layer": "%5B%5BGelibol.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a6ae8d9cbca",
+          "type": "default",
+          "loc": [
+            384.28125,
+            422.2545595928177
+          ],
+          "link": "Mairie de Gelibol",
+          "layer": "%5B%5BGelibol.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c82ac8287ada",
+          "type": "default",
+          "loc": [
+            623.28125,
+            597.2439558885903
+          ],
+          "link": "Dur dur l'armure",
+          "layer": "%5B%5BGelibol.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md"
       ]
     }
   ],

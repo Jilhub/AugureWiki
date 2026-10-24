@@ -1,0 +1,1 @@
+Jeune palefrenier travaillant à l'[[Ecurie du Roi]], ayant perdu la jument préférée du roi.
