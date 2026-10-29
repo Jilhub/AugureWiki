@@ -1,4 +1,4 @@
-Hippase est issue d’un clan [[minotaure]] guerrier nomade autrefois très influent,
+Hippase est issue d’un clan [[Minotaure]] guerrier nomade autrefois très influent,
 ayant fait fortune dans le mercenariat.
 
 Lorsqu’elle n’était encore qu’un veau, le campement de son clan fut pris en

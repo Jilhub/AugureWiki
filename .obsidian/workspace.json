@@ -8,65 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09a70482bff78f49",
+            "id": "b04af584d60f81a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md",
+                "file": "Bestiaire/_Liste Race.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gelibol"
+              "title": "_Liste Race"
             }
           },
           {
             "id": "534ecd2815f2f586",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "eb4651126891b1e3",
-            "type": "leaf",
-            "state": {
-              "type": "sna-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Gelibol/Vvulf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Social Network Analysis"
+              "title": "Vvulf"
             }
           },
           {
             "id": "7a94621017f41a00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Divinité/Panthéon elfique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Panthéon elfique"
             }
           },
           {
             "id": "3dccd70e2250393e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Mairie de Gelibol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mairie de Gelibol"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNJ/Gelibol/Tania l'herboriste.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -246,54 +239,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "534ecd2815f2f586",
+  "active": "63e069d88b5d9175",
   "lastOpenFiles": [
-    "Magie/Domaine de l'air.md",
-    "PNJ/Gelibol/Tania l'herboriste.md",
+    "Divinité/Panthéon elfique.md",
+    "Divinité/Shar.md",
+    "PNJ/Gelibol/Vvulf.md",
+    "Bestiaire/_Liste Race.md",
+    "Bestiaire/Elfe.md",
+    "Bestiaire/Demi-Elfe.md",
+    "Bestiaire/Homme-Rat.md",
+    "Bestiaire/Humain.md",
+    "Bestiaire/Minotaure.md",
+    "Bestiaire/Mousling.md",
+    "Bestiaire/Sylphe.md",
+    "Bestiaire/Orc.md",
+    "A faire.md",
     "Fiche perso Eva JDR D&D.pdf",
     "Frise Chronologique.md",
     "Idée aventure groupe Eva Kiki.md",
     "Idée aventure groupe Théa Marty Lucie.md",
     "JDR Augure.md",
     "Les compétences.md",
-    "Wiki/Lieu/Secret/Camp de Vvulf.md",
-    "Wiki/Lieu/Secret",
-    "Wiki/Lieu/Secret/Manoir de Niv.md",
-    "Wiki/Lore/Histoire du Monde.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Dur dur l'armure.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md",
-    "Wiki/PNJ/Gelibol/Tania l'herboriste.md",
+    "Lieu/Secret/Camp de Vvulf.md",
+    "Lieu/Secret",
+    "Lieu/Secret/Manoir de Niv.md",
+    "Lore/Histoire du Monde.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Dur dur l'armure.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Gelibol.md",
+    "PNJ/Gelibol/Tania l'herboriste.md",
     "Dur comme Gelibol.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Herbo & Magie.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Le Chat Penché.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Mairie de Gelibol.md",
-    "Wiki/PNJ/Gelibol/Aline Oyar.md",
-    "A faire.md",
-    "Wiki/PNJ/Gelibol/Viktor Vallakovich.md",
-    "Wiki/PNJ/Gelibol/Vvulf.md",
-    "Wiki/PNJ/Gelibol/Dorn Oyar.md",
-    "Wiki/Personnage Joueur/Carnet des aventuriers/Carnet de Calaerion.md",
-    "Wiki/PNJ/Wojgor.md",
-    "Wiki/Personnage Joueur/Carnet des aventuriers/Carnet de Hipase Lamedacier.md",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Welton/Welton.md",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol/Herbo & Magie.md",
     "Wiki/z_jpg/Gelibol.png",
     "Wiki/z_jpg/Tania l'herboriste.png",
-    "Wiki/Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol",
+    "Lieu/Ile de Featherock/Royaume de Tamestri/Gelibol",
     "Wiki/z_jpg/Pasted image 20261023175937.png",
     "Wiki/z_jpg/Redgar.png",
-    "Wiki/Lieu/Continent Rouge",
+    "Lieu/Continent Rouge",
     "Wiki/z_jpg/Hipase Lamedacier 2.png",
     "Wiki/z_jpg/Hipase Lamedacier 1.png",
     "Fiche perso Eva JDR D&D.pdf.crswap",
     "Wiki/z_jpg/Viktor Vallakovich.png",
     "Wiki/z_jpg/Mayor Wilkin.png",
     "Wiki/z_jpg/Vvulf.png",
-    "Wiki/PNJ/Gelibol",
+    "PNJ/Gelibol",
     "Wiki/z_jpg/GrotteBandit1.jpg",
-    "Wiki/Lieu/Ile de Featherock/Royaume d'Orzamar",
-    "Wiki/Classe",
+    "Lieu/Ile de Featherock/Royaume d'Orzamar",
+    "Classe",
     "Lieu",
-    "Wiki/PNJ/Valbonne",
+    "PNJ/Valbonne",
     "Sans titre.canvas",
     "Lieu/Sans titre.canvas"
   ]

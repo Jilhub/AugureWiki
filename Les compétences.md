@@ -1,0 +1,43 @@
+
+
+# Les compétences
+  
+Les compétences représentent une large palette d'aptitudes différentes. Un personnage maîtrise certaines compétences de mieux en mieux au fur et à mesure de son aventure.
+
+## Utilisation des compétences 
+
+Chaque utilisation d'une compétence est évaluée grâce à un jet de dés. Plus le résultat du test de compétence est élevé, plus l'issue est favorable au personnage. Pour réussir, il est nécessaire d'atteindre un résultat donné, qui varie selon les conditions de la situation (voir tableau seuil de difficulté p). Ce résultat peut être un degré de difficulté (DD) fixé par le Maître du Jeu ou le résultat d'un test opposé réalisé par un adversaire. Le résultat du test peut également être influencé par certaines conditions extérieures. Si le personnage agit dans le calme, sans source de distraction, et qu’il peut prendre le temps nécessaire pour éviter les erreurs dues à la précipitation alors il aura un bonus sur son jet de dé (voir même un avantage et lancer deux dés pour garder le meilleur résultat). A l’inverse dans une situation de stress ou en étant empoisonné alors le personnage pourra avoir un malus sur son jet (voir un désavantage et lancer deux dés pour garder le pire résultat).
+
+
+Lorsqu'un personnage effectue un test de compétence, il lance les dés et ajoute plusieurs éléments qui sont pris en compte. Tout d'abord sa Maîtrise, c'est-à-dire l'entraînement reçu dans cette compétence spécifique. Ensuite sa ou ses Caractéristiques. Enfin, le Maître du Jeu peut appliquer des modificateurs de situation liés aux conditions extérieures pouvant faciliter ou compliquer l'action. Ces modificateurs peuvent représenter l'aide d'un allié, la difficulté liée au port d'une armure, des flammes se rapprochant du personnage ou toute autre circonstance influençant la réussite du test.
+
+|   |
+|---|
+|Exemple :  <br>  <br>Olma'an le roublard avance discrètement aux abords d'une forteresse lorsqu'il cherche à repérer la présence de gardes patrouillant sur les remparts. Le Maître du Jeu lui demande d'effectuer un test de Perception afin de déterminer s'il parvient à entendre leurs déplacements.  <br>  <br>La Perception est une compétence associée à l'Instinct. Olma'an possède un modificateur de +1 en Instinct (ici multiplié par deux car la compétence perception utilise l’instinct deux fois) et un degré de maîtrise de +2 dans la compétence Perception.  <br>  <br>Les conditions sont favorables pour Olma’an, il fait nuit et les gardes portent des armures métalliques qui rendent leurs déplacements plus audibles. Le Maître du Jeu lui accorde donc un bonus de situation de +2.  <br>  <br>Le Maître du Jeu fixe le degré de difficulté à 12. Olma'an doit donc obtenir un résultat final de 12 ou plus pour réussir son test. Olma'an lance les dés et obtient un 7. Il ajoute sa maîtrise de +2, son Instinct de +1 deux fois, et le bonus de situation de +2. Son résultat final est de 13. Olma'an réussit son test de Perception et entend les gardes approcher sur les remparts avant qu'ils ne puissent le repérer.|
+
+
+Liste des compétences
+
+  
+| Compétence          | Charactéristiques associée | Domaine couvert                                                                                                                                                                                                         |
+| ------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                     |                            |                                                                                                                                                                                                                         |
+| Athlétisme          | Force + Constitution       | Escalade, saut, nage, lutte, prouesses physiques                                                                                                                                                                        |
+| Acrobaties          | Dextérité x 2              | Équilibre, mouvements agiles, chutes, acrobaties                                                                                                                                                                        |
+| Discrétion          | Dextérité x 2              | Se cacher, se déplacer silencieusement, éviter d'être repéré                                                                                                                                                            |
+| Manipulation        | Dextérité + Savoir         | Ouvrir une serrure, désamorcer un piège, dissimuler ou subtiliser un objet, effectuer des tours de passe-passe, modifier un mécanisme ou saboter un dispositif.                                                         |
+| Arcanes             | Savoir x 2                 | Aptitude à vous rappeler des choses à propos de sorts, d'objets magiques                                                                                                                                                |
+| Investigation       | Savoir x 2                 | Recherche, déduction, analyse d'indices, résoudre des énigmes                                                                                                                                                           |
+| Histoire & Religion | Savoir x 2                 | Civilisations anciennes, événements historiques, divinités, traditions.                                                                                                                                                 |
+| Médecine            | Savoir + Instinct          | Soins, blessures, maladies, anatomie                                                                                                                                                                                    |
+| Perception          | Instinct x 2               | Remarquer des détails, entendre, voir, détecter un danger                                                                                                                                                               |
+| Survie              | Instinct x 2               | Comprendre son environnement, suivre des traces, trouver de la nourriture et de l'eau, s'orienter, survivre dans des conditions difficiles, reconnaître les plantes et les animaux, exploiter les ressources naturelles |
+| Dressage            | Instinct + Charisme        | Comprendre les animaux, les calmer, les entraîner                                                                                                                                                                       |
+| Perspicacité        | Instinct + Charisme        | Lire les intentions, détecter les mensonges, comprendre les émotions                                                                                                                                                    |
+| Intimidation        | Charisme + Force           | Menacer, imposer sa présence, faire pression                                                                                                                                                                            |
+| Persuasion/Bluff    | Charisme x 2               | Convaincre, manipuler, négocier, inspirer confiance                                                                                                                                                                     |
+| Représentation      | Charisme x 2               | Art, spectacle, discours, captiver un public                                                                                                                                                                            |
+
+### Arcanes
+
+Cette compétence représente la connaissance des lois qui régissent la Veine, des traditions magiques et des secrets des anciens mages. Elle permet notamment d'identifier un sort au moment où il est lancé, d'apprendre de nouveaux sorts à partir d'un grimoire ou d'un parchemin endommagé, de préparer un sort depuis un ouvrage emprunté, d'identifier les propriétés d'un objet magique à l'aide d'un sort de détection de la magie, de déchiffrer d'antiques écrits imprégnés de magie ou encore de fabriquer des objets magiques.

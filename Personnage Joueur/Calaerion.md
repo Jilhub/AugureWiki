@@ -6,7 +6,7 @@ Yeux très clairs, tolérance limité au soleil, toujours avec une capuche. (300
 
 ## Histoire
 
-Un [[elfe]] milléanire, piégé depuis 3000 ans sous terre qui a du apprendre a dresser les betes/insectes et heal pour survivre, les insectes ramenaient de la nourriture et quand ça ne suffisait pas, on s'adonnait au cannibalisme en sacrifiant les plus vieux. PTSD, Gout pour le cannibalisme, Magie de dressage de bête + Heal 
+Un [[Elfe]] milléanire, piégé depuis 3000 ans sous terre qui a du apprendre a dresser les betes/insectes et heal pour survivre, les insectes ramenaient de la nourriture et quand ça ne suffisait pas, on s'adonnait au cannibalisme en sacrifiant les plus vieux. PTSD, Gout pour le cannibalisme, Magie de dressage de bête + Heal 
 
 - Pourquoi vous êtes partis à l'aventure: 
 

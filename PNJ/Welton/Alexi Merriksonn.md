@@ -1,0 +1,3 @@
+**Statut connu** : Mort lors d'une explosion lié à une Surchage de Magie Sauvage.
+
+**Lore** : Protecteur de [[Welton]], Alexi a consacré sa vie à éloigner les monstres dangereux et les bandes de bandits de la région. Né avec un lien aux forces mystérieuses de la Magie Sauvage, il a toujours été considéré comme un outsider durant son enfance. Il est parti chasser la meute des loups après une demande de [[Tillus Merrion]], et n'en est jamais revenu.

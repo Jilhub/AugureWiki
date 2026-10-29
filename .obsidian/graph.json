@@ -3,29 +3,22 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Wiki/z_Bestiaire/Races  ",
+      "query": "path:Bestiaire ",
       "color": {
         "a": 1,
-        "rgb": 3099344
+        "rgb": 3102452
       }
     },
     {
-      "query": "path:Wiki/Divinité  ",
+      "query": "path:Divinité ",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Wiki/Personnage Joueur\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 11.0368038215178,
   "linkStrength": 1,
   "linkDistance": 76,
-  "scale": 0.508761885579234,
+  "scale": 0.5087618855792321,
   "close": false
 }

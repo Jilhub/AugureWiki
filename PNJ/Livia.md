@@ -1,0 +1,1 @@
+Fille capturé par [[Alexi Merriksonn]]. Gardé dans un Beffroi au nord de [[Welton]].
