@@ -22,7 +22,7 @@ Redgar savait bien que je finirais un jour par repartir. De nature peu bavarde, 
 
 ## Vendredi 7 jaon 421
 
-J'ai récemment été embauchée par [[Dorn Oyar]], un aubergiste à la recherche de sa femme et de sa fille, qui ont disparu. Les soupçons se portent sur les brigands qui rôdent autour du village, menés par un certain [[Vvulf]].
+J'ai récemment été embauchée par [[Dorn Oyar]], un aubergiste à la recherche de sa femme et de sa fille, qui ont disparu. Les soupçons se portent sur les brigands qui rôdent autour du village, menés par un certain [[Wwulf]].
 
 D'après les informations recueillies auprès de l'aubergiste, elles auraient disparu il y a cinq jours, en pleine nuit. Pourtant, aucune trace d'effraction n'a été remarquée et la porte était toujours fermée à clef. Sont-elles sorties d'elles-mêmes pendant la nuit ? Mais pourquoi faire ?
 

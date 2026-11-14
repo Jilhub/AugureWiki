@@ -1,4 +1,4 @@
-Il s'agit du camp de [[Vvulf]] et de sa bande, situé aux abords du village de [[Gelibol]].
+Il s'agit du camp de [[Wwulf]] et de sa bande, situé aux abords du village de [[Gelibol]].
 
 ```leaflet  
 id: grottebandit1 ### Must be unique with no spaces  

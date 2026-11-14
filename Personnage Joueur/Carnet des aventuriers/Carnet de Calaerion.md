@@ -46,7 +46,7 @@ Il ne faut pas manger les elfes.
 
 ### **Vendredi 7 jaon 421**
 
-Les dieux ont placé une nouvelle piste sur mon chemin. Un aubergiste du nom de [[Dorn Oyar]] m'a engagé pour retrouver sa femme et sa fille, disparues depuis cinq jours. Il accuse les brigands qui rôdent autour du village, menés par un certain [[Vvulf]].
+Les dieux ont placé une nouvelle piste sur mon chemin. Un aubergiste du nom de [[Dorn Oyar]] m'a engagé pour retrouver sa femme et sa fille, disparues depuis cinq jours. Il accuse les brigands qui rôdent autour du village, menés par un certain [[Wwulf]].
 
 Dès notre première rencontre, quelque chose chez Dorn m'a mis mal à l'aise. Son sourire, sa façon de parler de sa famille… Je ne saurais dire pourquoi, mais je me demande s'il ne cache pas un appétit bien plus sombre que celui d'un simple aubergiste. Et si Dorn était de ceux qui se repaissent de leurs semblables ? Je dois garder cette hypothèse à l'esprit.
 
